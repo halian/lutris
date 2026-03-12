@@ -2,8 +2,6 @@
 Lutris
 ******
 
-|LiberaPayBadge|_ |PatreonBadge|_
-
 Lutris helps you install and play video games from all eras and from most
 gaming systems. By leveraging and combining existing emulators, engine
 re-implementations and compatibility layers, it gives you a central interface
@@ -108,31 +106,3 @@ identifier on the command line such as::
 
 This will install the game if it is not already installed, otherwise it will
 launch the game. The game will always be installed if the ``--reinstall`` flag is passed.
-
-Support the project
-===================
-
-Lutris is 100% community supported, to ensure a continuous development on the
-project, please consider donating to the project.
-Our main platform for supporting Lutris is Patreon: https://www.patreon.com/lutris
-but there are also other options available at https://lutris.net/donate
-
-Come with us!
-=============
-
-Want to make Lutris better? Help implement features, fix bugs, test
-pre-releases, or simply chat with the developers?
-
-Improve the code by just cloning the repository, editing the scripts and then starting Lutris with the ``./bin/lutris -d`` command.
-
-You can always reach us on:
-
-* Discord: https://discordapp.com/invite/Pnt5CuY
-* IRC: ircs://irc.libera.chat:6697/lutris
-* Github: https://github.com/lutris
-* Mastodon: https://fosstodon.org/@lutris
-
-.. |LiberaPayBadge| image:: http://img.shields.io/liberapay/receives/Lutris.svg?logo=liberapay
-.. _LiberaPayBadge: https://liberapay.com/Lutris/
-.. |PatreonBadge| image:: https://img.shields.io/badge/dynamic/json?color=%23ff424d&label=Patreon&query=data.attributes.patron_count&suffix=%20Patreons&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F556103&style=flat&logo=patreon
-.. _PatreonBadge: https://www.patreon.com/lutris
